@@ -41,6 +41,7 @@ Guess the Number is a dynamic web-based game built entirely in vanilla JavaScrip
 
 ## <a name="flow-chart">🔋 Flow Chart</a>
 
+<img src="https://github.com/Aryan9901/pig-game/blob/main/pig-game-flowchart.png" center">
 
 ## <a name="features">🔋 Features</a>
 

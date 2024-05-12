@@ -23,9 +23,6 @@
 4. 🔋 [Features](#features)
 5. 🤸 [How to Play](#howtoplay)
 6. 🤸 [Quick Setup](#quick-setup)
-7. 🕸️ [Snippets](#snippets)
-8. 🔗 [Links](#links)
-9. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 

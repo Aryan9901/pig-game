@@ -45,25 +45,39 @@ PIG GAME is the ultimate test of skill, luck, and nerve. Are you ready to roll?
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Real-time Feedback:**: Receive instant feedback after each guess, indicating whether the guess is too high or too low.
+👉 **Two-Player Mode:**: Challenge a friend in a head-to-head competition, adding a social element to the game.
 
-👉 **Attempt Tracking**: The game tracks the number of attempts made, providing insight into your progress.
+👉 **Dynamic Scoring System:**:  Accumulate points with each roll, but watch out for the risk of losing all progress with a roll of 1.
 
-👉 **Highscore Comparison**: Compare your current score with previous highscores, motivating you to beat your personal best.
+👉 **Strategy and Decision-Making**:  Exercise strategic thinking by deciding when to roll the dice to accumulate more points and when to hold onto your score.
 
-👉 **Congratulatory Messages**: Upon correctly guessing the number, the game displays a congratulatory message, adding a rewarding element to the experience.
+👉 **Interactive Gameplay**: Engage in an interactive gameplay experience where every decision matters.
 
 and many more, including code architecture and reusability 
 
 ## <a name="howtoplay">🤸 How to Play</a>
 
-Follow these steps to play this game.
+Certainly! Here's a basic guide on how to play the Pig Dice game:
 
-- Open the game in your web browser.
-- Enter your guess in the input field provided.
-- Click the "Submit" button to submit your guess.
-- Receive immediate feedback on whether your guess is too high or too low.
-- Keep guessing until you correctly guess the number!
+👉 Player Turn: 
+### Setup
+- The game is played with two players and one six-sided die.
+
+### Turns
+- Players take turns rolling the die.
+- A player can roll the die as many times as they want until they roll a 1.
+
+### Scoring
+- If a player rolls a 1, they lose all points accumulated during that turn, and their turn ends.
+- If they roll a number other than 1, the number rolled is added to their turn total.
+- A player can choose to roll again or hold onto their current turn total and pass the die to the other player.
+
+### Winning
+- The first player to reach or exceed 100 points at the end of their turn wins the game.
+
+### Strategy
+- Decide whether to play conservatively and hold onto your points or take risks to accumulate more points in a turn.
+- Pay attention to your opponent's score and adjust your strategy accordingly.
 
   ## <a name="quick-setup">🤸 Quick Setup</a>
 

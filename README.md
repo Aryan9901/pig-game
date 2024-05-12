@@ -90,7 +90,7 @@ Make sure you have the basic knowledge of HTML CSS & JAVASCRIPT.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/pricewise.git
+git clone https://github.com/Aryan9901/pig-game.git
 ```
 
 **Running the Project**

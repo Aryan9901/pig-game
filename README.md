@@ -9,8 +9,8 @@
        you ready to roll?
     </div>
     <br />
-    <a href="https://aryan9901.github.io/guess-the-number/" target="_blank">
-      <img src="https://github.com/Aryan9901/guess-the-number/blob/main/home.png"center">
+    <a href="https://aryan9901.github.io/pig-game/" target="_blank">
+      <img src="https://github.com/Aryan9901/pig-game/blob/main/pighome.png"center">
   <br />
   <br />
 </div>
@@ -19,12 +19,13 @@
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [How to Play](#howtoplay)
-5. 🤸 [Quick Setup](#quick-setup)
-6. 🕸️ [Snippets](#snippets)
-7. 🔗 [Links](#links)
-8. 🚀 [More](#more)
+3. 📊 [Flow Chart](#flow-chart)
+4. 🔋 [Features](#features)
+5. 🤸 [How to Play](#howtoplay)
+6. 🤸 [Quick Setup](#quick-setup)
+7. 🕸️ [Snippets](#snippets)
+8. 🔗 [Links](#links)
+9. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -37,6 +38,9 @@ Guess the Number is a dynamic web-based game built entirely in vanilla JavaScrip
 - HTML
 - CSS
 - JAVASCRIPT
+
+## <a name="flow-chart">🔋 Flow Chart</a>
+
 
 ## <a name="features">🔋 Features</a>
 

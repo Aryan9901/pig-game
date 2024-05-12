@@ -29,9 +29,9 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Guess the Number is a dynamic web-based game built entirely in vanilla JavaScript. Users are prompted to guess a number between 1 and 20, receiving immediate feedback on each attempt. The game features a tracking system for guesses and congratulatory messages upon correct answers, providing an engaging user experience. Developed with HTML, CSS, and JavaScript for seamless functionality and interactivity.
+Welcome to the Pig Dice Game, where the thrill of the roll determines your fate! Challenge a friend to a game of risk and reward as you take turns rolling the dice to accumulate points. But beware! Rolling a 1 resets your score, passing the dice to your opponent. Will you press your luck and keep rolling, or play it safe and hold onto your points? The choice is yours in this fast-paced game of chance and strategy. Reach 100 points first to claim victory and prove yourself as the ultimate Pig Dice champion!
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+PIG GAME is the ultimate test of skill, luck, and nerve. Are you ready to roll?
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -41,7 +41,7 @@ Guess the Number is a dynamic web-based game built entirely in vanilla JavaScrip
 
 ## <a name="flow-chart">🔋 Flow Chart</a>
 
-<img src="https://github.com/Aryan9901/pig-game/blob/main/pig-game-flowchart.png" center">
+![Flow Chart](https://github.com/Aryan9901/pig-game/blob/main/pig-game-flowchart.png)
 
 ## <a name="features">🔋 Features</a>
 
